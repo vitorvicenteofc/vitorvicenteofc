@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vitor Vicente</h1>
-<h3 align="center">I'm a Senior Software Consultant from Brazil. Started studying programming in 2016 but venturing myself on the field since 2011 when i needed to create hacking scripts for my games (🕶️) since then i got undergraduate in Information Systems (BSIS) worked in various projects of small to big companies since 2018, you can check more of my career on the LinkedIn link down bellow (👇🏻), Also before i forget i'm a huge fan of Dune and to me (Dune > Star Wars).</h3>
+<h3 align="center">I'm a Senior Software Consultant from Brazil. I started studying programming in 2011 as a hobby fueled by my interest in games, and made official in 2016 when i joined the Information Systems (BSIS) college since then i got undergraduate and worked on various projects of small to big companies from 2018 onwards, you can check more of my career on the LinkedIn link down bellow (👇🏻), Also before i forget i'm a huge fan of Dune and to me (Dune > Star Wars).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitorvicenteofc&label=Profile%20views&color=0e75b6&style=flat" alt="vitorvicenteofc" /> </p>
 
