@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vitor Vicente</h1>
-<h3 align="center">I'm a Senior Software Consultant from Brazil. I started studying programming in 2011 as a hobby fueled by my interest in games, and made official in 2016 when i joined the Information Systems (BSIS) college since then i got undergraduate and worked on various projects of small to big companies from 2018 onwards, you can check more of my career on the LinkedIn link down bellow (👇🏻), Also before i forget i'm a huge fan of Dune and to me (Dune > Star Wars).</h3>
+<h3 align="center">I'm a Senior Software Consultant from Brazil. I started studying programming in 2011 as a hobby fueled by my interest in games, and made official in 2016 when i joined the Information Systems (BSIS) college since then i got undergraduate and worked on various projects of small to big companies from late 2018 onwards, you can check more of my career on the LinkedIn link down bellow (👇🏻), Also before i forget i'm a huge fan of Dune and Cyberpunk genre (to me Dune > Star Wars 🫠).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitorvicenteofc&label=Profile%20views&color=0e75b6&style=flat" alt="vitorvicenteofc" /> </p>
 
@@ -7,30 +7,33 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java and Angular**
+- 👯 I’m looking to collaborate on **OSS projects using on of the following tech stacks: React Native, React, Node.js, AWS**
 
-- 👯 I’m looking to collaborate on **OSS projects using on of the following tech stacks: Java + Angular || MERN || Any JS front-end lib + Nest.js || Next.js**
+- 🤝 I’m looking for help with **React Native | AWS**
 
-- 🤝 I’m looking for help with **Java (Spring & Springboot)**
+- 🌱 I’m currently learning **LLMs | AWS | React Native**
 
 - 📝 I regularly write articles on [medium.com/@vitor.vicen.te](medium.com/@vitor.vicen.te)
 
-- 💬 Ask me about **React.js, Vue.js, Angular, Nest.js, Next.js, Java Spring & Springboot, JS ORM Libs, Postgress, Mongodb**
+- 👨‍💻 All of my projects are available at this Github account
 
-- 📫 How to reach me **vitor.vicen.te@icloud.com**
+- 💬 Ask me about **React.js, Vue.js, Angular, Nest.js, Next.js, JS ORM Libs, Postgress, Mongodb**
+
+- 📫 How to reach me **DM me at [linkedin.com/in/vitor-da-silva-vicente/](linkedin.com/in/vitor-da-silva-vicente/)**
 
 - 📄 Know about my experiences [linkedin.com/in/vitor-da-silva-vicente/](linkedin.com/in/vitor-da-silva-vicente/)
 
 - ⚡ Fun fact **Shiny and Chrome**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+Check my medium profile [medium.com/@vitor.vicen.te](medium.com/@vitor.vicen.te)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vitor-da-silva-vicente" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitor-da-silva-vicente" height="30" width="40" /></a>
 <a href="https://medium.com/@vitor.vicen.te" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vitor.vicen.te" height="30" width="40" /></a>
+<a href="https://twitter.com/vitorvicenteofc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vitorvicenteofc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
