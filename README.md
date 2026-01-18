@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm a Senior Software Engineer from Brazil/US. I started studying programming in 2011 as a hobby fueled by my interest in games and turned it into a career, since then i got undergraduate and worked on various projects of small to big companies, you can check more of my career on the LinkedIn link down bellow (👇🏻), Also before i forget i'm a huge fan of Dune and Cyberpunk genre.<br><br>- 🔭 I’m working as FullStack Software Engineer<br><br>- 📖 I'm currently learning Rust | Go<br><br>- ⚡ In my free time I play BF4 | Insurgency | FPS<br><br>- 📚My core tech stack is React or React Native | Node.js | AWS<br><br>(Down bellow you can see some of the tools i've already worked with)</p>
+<p align="left">I'm a Senior Software Engineer from Brazil/US. I started studying programming in 2011 as a hobby fueled by my interest in games and turned it into a career, since then i got undergraduate and worked on various projects of small to big companies, you can check more of my career on the LinkedIn link down bellow (👇🏻), Also before i forget i'm a huge fan of Dune and Cyberpunk genre.<br><br>- 🔭 I’m working as FullStack Software Engineer<br><br>- 📖 I'm currently learning Rust | Go<br><br>- ⚡ In my free time I play BF4 | Insurgency | FPS<br><br>- 📚My core tech stack is React | Node.js | AWS<br><br>(Down bellow you can see some of the tools i've already worked with)</p>
 
 ###
 
